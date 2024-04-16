@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "itw0Uu158z12GLbWH5bGW+dEaPQ7h7RtoxgdODSSffLUIbnfCNsC8rAnoR6OiAlQxx4yUVTo2Kt+OzBnkJLeTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91965\\source\\repos\\ChartUI\\ChartUI\\ChartUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91965\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\91965\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
